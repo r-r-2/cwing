@@ -1,0 +1,8 @@
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\classes\debug
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-dbb780216f763fe9d9673cb3827319796a4689dc.jar
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\android-times-square-1.5.0-sources-e6a11b1801068fb571aad91a23a5f2dcde88a82c.jar
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-559b909d505a794a3390aaf4479ce3e2c1f59e38.jar
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-238a6ba1cb90dcda2e5e9f9b7c76007e98bfdbc7.jar
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-67d04d1a018ed4c300c45aa13c473e2fbfc2c0dd.jar
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\Parse-1.8.2-6b5f97e08987bdbc92a379992abc2ba3bcc14cd1.jar
+C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-3facdbcb49e8d7c2ebd9b36de5ca8e5578b77198.jar

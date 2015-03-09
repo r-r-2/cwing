@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\android-times-square-1.5.0-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8ea91b929890b763915b022cfae6b1e66d2a5a56">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\android-times-square-1.5.0-sources-e6a11b1801068fb571aad91a23a5f2dcde88a82c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\Parse-1.8.2-6b5f97e08987bdbc92a379992abc2ba3bcc14cd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-dbb780216f763fe9d9673cb3827319796a4689dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-3facdbcb49e8d7c2ebd9b36de5ca8e5578b77198.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-238a6ba1cb90dcda2e5e9f9b7c76007e98bfdbc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-67d04d1a018ed4c300c45aa13c473e2fbfc2c0dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\Parse-1.8.2\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-559b909d505a794a3390aaf4479ce3e2c1f59e38.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Career Wings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Calendar</item>
+        <item >Company Profiles</item>
+        <item >Contact</item>
+        <item >Questions</item>
+        <item >Admin Login</item>
+        <item >About</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_cal</item>
+        <item>@drawable/ic_cprofile</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_ques</item>
+        <item>@drawable/ic_admin</item>
+        <item>@drawable/ic_about</item>
+    </array>
+
+    <string-array name="Branch">
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>EB</item>
+        <item>ECE</item>
+    </string-array>
+    <string-array name="Query">
+        <item>Resume</item>
+        <item>Deadline for Interview</item>
+        <item>Company Details</item>
+        <item>Misc.</item>
+    </string-array>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="batch"><![CDATA[Branch & Batch]]></string>
+
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+
+   <!-- <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:hint="Subject"
+        android:layout_marginTop="66dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/rollspinner"
+        android:layout_toStartOf="@+id/rollspinner" /> -->
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"></LinearLayout><LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="120dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Query regarding "
+        android:id="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Spinner
+        android:spinnerMode="dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/qspinner"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</LinearLayout>
+<LinearLayout
+    android:layout_width="299dp"
+    android:layout_height="wrap_content"
+    android:weightSum="3">
+    <TextView
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Branch"/>
+    <TextView
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Batch"/>
+    <TextView
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Roll No."/>
+</LinearLayout>
+    <LinearLayout
+        android:weightSum="3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+    <Spinner
+        android:layout_weight="1"
+        android:spinnerMode="dialog"
+        android:id="@+id/branchsp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Branch"
+         />
+        <Spinner
+            android:layout_weight="1"
+            android:spinnerMode="dialog"
+            android:id="@+id/batchspin"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="Branch"
+            />
+
+        <Spinner
+        android:spinnerMode="dialog"
+        android:layout_weight="1"
+        android:id="@+id/rollspinner"
+        android:text="Roll No."
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        />
+    </LinearLayout>
+    <EditText
+        android:hint="Enter your Query"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/body"
+        android:layout_above="@+id/button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar" />
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send Mail"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Ravi%20Kumar/AndroidStudioProjects/SlidingMenu/SlidingMenu/src/main/res/layout/fragment_community.xml -->
