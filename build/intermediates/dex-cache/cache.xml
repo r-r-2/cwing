@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\volley-0da7b657638aebdede05de921c647a971b734e4c.jar" />
+    </item>
+    <item
         jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\android-times-square-1.5.0-sources.jar"
         jumboMode="false"
         revision="21.1.1"
