@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: sY6+RQ4DWdnxCfSpiwTT6GRIwA0=
+Created-By: 1.7.0_45 (Oracle Corporation)
+SHA1-Digest-Manifest: qQMSLhPGPEG6MoSyZcYjlkS5TwI=
+
+Name: res/values/values.xml
+SHA1-Digest: LCdSMhZ+BZ5bq8pXvG9ZHLYyWuU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: fGG/koVZMq6aYkHF6KdfNyQ5Htk=
+
+Name: classes.jar
+SHA1-Digest: KKq1Fkd2WeV6KEFl61EYlq4N1vk=
+
+Name: res/values-sw480dp-v13/values.xml
+SHA1-Digest: MuiqdFV6YbQBDrbOh4izy8NAZnc=
+
+Name: R.txt
+SHA1-Digest: d+FmpCHJJXeMpYWqTLotxxaB6bs=
+
+Name: res/values-sw320dp-v13/values.xml
+SHA1-Digest: hPoTDUkFy0uN5K+uGcy62KtII7o=
+
+Name: res/values-sw720dp-v13/values.xml
+SHA1-Digest: Q0wqDqVWdobMDdUAcGcUfpMSU2Q=
+

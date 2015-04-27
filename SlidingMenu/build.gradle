@@ -19,9 +19,23 @@ android {
 }
 
 dependencies {
+
+
+
     compile files('libs/Parse-1.8.2.jar')
     compile files('libs/Parse-1.8.2/bolts-android-1.1.4.jar')
+    compile files('libs/volley.jar')
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
-    compile files('libs/volley.jar')
+    compile 'com.android.support:recyclerview-v7:21.0.3'
+    compile(name: 'Chart-2015.1.225-trial-release', ext: 'aar')
+    compile(name: 'Common-2015.1.225-trial-release', ext: 'aar')
+    compile(name: 'Data-2015.1.225-trial-release', ext: 'aar')
+    compile(name: 'Feedback-2015.1.225-trial-release', ext: 'aar')
+    compile(name: 'Input-2015.1.225-trial-release', ext: 'aar')
+    compile(name: 'List-2015.1.225-trial-release', ext: 'aar')
+    compile(name: 'Primitives-2015.1.225-trial-release', ext: 'aar')
+
+
+
 }

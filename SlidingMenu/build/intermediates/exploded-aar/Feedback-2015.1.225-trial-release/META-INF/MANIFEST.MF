@@ -1,0 +1,108 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_45 (Oracle Corporation)
+
+Name: res/values/values.xml
+SHA1-Digest: tFayN5uHpt2XnObV8mjb+zop7ek=
+
+Name: res/layout/feedback_item.xml
+SHA1-Digest: PSgT+gWf1iazNw4Xu5rW9IdxRK4=
+
+Name: res/drawable-hdpi-v4/ic_done.png
+SHA1-Digest: yWh4b+rt5QFYEhB8QEPF7JPkDho=
+
+Name: res/layout/popup_edit_details.xml
+SHA1-Digest: zyCTHn0rzRn77mbMreltF7iYeVU=
+
+Name: res/layout/activity_view_feedback_item.xml
+SHA1-Digest: NI4I9P6qGGutsfQpuNcJbT0WizE=
+
+Name: res/drawable-mdpi-v4/ic_feedback_sync.png
+SHA1-Digest: wnW+g/aVb4Bw7HbRuor0GmN6s0g=
+
+Name: res/layout/main_menu_list_item.xml
+SHA1-Digest: uGAW3ntVWDG7AMfxcFXqv6WUycU=
+
+Name: res/layout/fragment_feedback_items.xml
+SHA1-Digest: 0NuMqBxHpZbECDcgXx9gKDtVGIc=
+
+Name: res/menu/send_feedback_activity_menu.xml
+SHA1-Digest: isjmgrcGZrO9oViD/gxEOKQCXYg=
+
+Name: res/layout/activity_view_feedback.xml
+SHA1-Digest: TOwrfCSg7vpLlm0rOo22isY2d1c=
+
+Name: res/drawable-xhdpi-v4/ic_send.png
+SHA1-Digest: pom7OMAlwUqvaO4BTufRRRoXFb0=
+
+Name: res/drawable-mdpi-v4/ic_done.png
+SHA1-Digest: sef9YRHPwgryYqqi7AOE9tWQvyk=
+
+Name: res/drawable-mdpi-v4/ic_send.png
+SHA1-Digest: H4Ufo8y8VDu5olZQrtyKSzcSFa4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: UhFngAN9WxdmT75+AAp2rySxLf0=
+
+Name: res/layout/activity_send_feedback.xml
+SHA1-Digest: fm15rUuwlyZEBVj9+ewHv53vh38=
+
+Name: res/drawable-xxhdpi-v4/ic_feedback_sync.png
+SHA1-Digest: vhK7Gf4ptpf+krAMFgznKgrnN7k=
+
+Name: res/layout/feedback_indicator.xml
+SHA1-Digest: uAuxFKneUs0OhNLg8wkK7a5cx5M=
+
+Name: res/drawable-xxhdpi-v4/ic_send.png
+SHA1-Digest: 7CSLI4wMtWq+7p6mBSTXBeq67qM=
+
+Name: res/menu/edit_details.xml
+SHA1-Digest: /XKEePy3jfGVJ4Cicuu12TgUebU=
+
+Name: res/layout/activity_edit_details.xml
+SHA1-Digest: 1ie20G9Ibju/kmK/gz1s8k0TQuQ=
+
+Name: res/menu/view_feedback_items_activity_menu.xml
+SHA1-Digest: HNRtcsFb4sziMhs833C/V/PmlfI=
+
+Name: classes.jar
+SHA1-Digest: EurhNkxrRyklGkA/0pbrBSp1mcI=
+
+Name: res/drawable-hdpi-v4/ic_send.png
+SHA1-Digest: 5KweUv00t07wuT86+L3R8QtY/wU=
+
+Name: res/layout/feedback_comment.xml
+SHA1-Digest: /r6NeoOrNcd9u86Rc/G1EGNPOqE=
+
+Name: res/drawable-xhdpi-v4/ic_feedback_sync.png
+SHA1-Digest: BhuNsFz7HRB1oNcT2Vrlw37ozn4=
+
+Name: res/drawable-hdpi-v4/done_button.xml
+SHA1-Digest: G9gsvmWVyGVpfTicxyzbUOCb43I=
+
+Name: res/layout/main_menu_content.xml
+SHA1-Digest: PnO0DiXsYjm+V85b+dik/B7astY=
+
+Name: res/layout/list_progress_indicator.xml
+SHA1-Digest: FOT3bGcbyc/U/H5yPFoKFBNr1H4=
+
+Name: res/values-w820dp-v13/values.xml
+SHA1-Digest: kJTwl6c3PMC/3nX4fQv2f1ckkok=
+
+Name: res/drawable-xhdpi-v4/ic_done.png
+SHA1-Digest: DWTRf1rgrqQiOOmiwajCgJ5gV9c=
+
+Name: res/drawable-hdpi-v4/ic_feedback_sync.png
+SHA1-Digest: G6ZxTIlp+ln4mskgjLp4pgz5Qeo=
+
+Name: res/drawable-xxhdpi-v4/ic_done.png
+SHA1-Digest: iw4csGfckmRNnnyBMtciDFcrrVY=
+
+Name: res/drawable-hdpi-v4/feedback_prompt_background.xml
+SHA1-Digest: C8W0Xk/Kmssw2z39go7xidosXEE=
+
+Name: R.txt
+SHA1-Digest: UcyGo9CNlbgucl+9+tcSgCv2uiw=
+
+Name: res/drawable-hdpi-v4/comment_indicator.xml
+SHA1-Digest: uv9sv8ZeI4zC7g+8QoocGVrQpa0=
+

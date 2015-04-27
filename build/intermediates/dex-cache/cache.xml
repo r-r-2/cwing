@@ -9,6 +9,13 @@
         <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\volley-0da7b657638aebdede05de921c647a971b734e4c.jar" />
     </item>
     <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\List-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6475c3dfa4c1f019b4b434e918aa1aef857bafba">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-d24e11ab102cbd6d36db2c7faec836d96659af9b.jar" />
+    </item>
+    <item
         jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\android-times-square-1.5.0-sources.jar"
         jumboMode="false"
         revision="21.1.1"
@@ -30,11 +37,11 @@
         <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-dbb780216f763fe9d9673cb3827319796a4689dc.jar" />
     </item>
     <item
-        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\Common-2015.1.225-trial-release\classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-3facdbcb49e8d7c2ebd9b36de5ca8e5578b77198.jar" />
+        sha1="a953c581a8d03841b572760c95dc0426a277f794">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-b470779c2b5731179bfdb7c7ab554209669c6d74.jar" />
     </item>
     <item
         jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
@@ -49,6 +56,55 @@
         revision="21.1.1"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
         <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-67d04d1a018ed4c300c45aa13c473e2fbfc2c0dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\Data-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e73ee94d8636d8f3bddcff393f89e4ea9d59ebb9">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-87c4e0fbb0259d4b1fd89fad785d3662d91bb79b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\Chart-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7b7102f53681ef11c0e8d2f64b4cdb00cda747d3">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-cb8c495221bec92f7017ba9a9bd56c525c29104e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-3facdbcb49e8d7c2ebd9b36de5ca8e5578b77198.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\Primitives-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7a8fad6e98f20464a41c102967d0cd5d64d2d734">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-b923c5b1a5cde51c9cc54ec6eb176883a2ce2e1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-676932350634b6990f641086f4488ffef09fb1fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\Input-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="74c4ac29bdd1e2f5d44a6f00f6470432f2874ca9">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-31848f94bab737f9f62e87a954ed5e19adb98b5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\exploded-aar\Feedback-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="12eae1364c6b4729251a403fd296eb052a7599c2">
+        <dex dex="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\build\intermediates\pre-dexed\debug\classes-7c6c2191963b918e7424ae11c31fb56f3900e0f5.jar" />
     </item>
     <item
         jar="C:\Users\Ravi Kumar\AndroidStudioProjects\SlidingMenu\SlidingMenu\libs\Parse-1.8.2\bolts-android-1.1.4.jar"

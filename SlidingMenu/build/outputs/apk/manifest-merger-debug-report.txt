@@ -17,6 +17,15 @@ uses-sdk
 ADDED from AndroidManifest.xml:7:5
 MERGED from com.android.support:appcompat-v7:21.0.3:15:5
 MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.android.support:recyclerview-v7:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from :Chart-2015.1.225-trial-release::7:5
+MERGED from :Common-2015.1.225-trial-release::7:5
+MERGED from :Data-2015.1.225-trial-release::7:5
+MERGED from :Feedback-2015.1.225-trial-release::7:5
+MERGED from :Input-2015.1.225-trial-release::7:5
+MERGED from :List-2015.1.225-trial-release::7:5
+MERGED from :Primitives-2015.1.225-trial-release::7:5
 	android:targetSdkVersion
 		ADDED from AndroidManifest.xml:9:9
 		INJECTED from AndroidManifest.xml:0:0
@@ -67,6 +76,15 @@ application
 ADDED from AndroidManifest.xml:26:5
 MERGED from com.android.support:appcompat-v7:21.0.3:16:5
 MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.android.support:recyclerview-v7:21.0.3:17:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from :Chart-2015.1.225-trial-release::11:5
+MERGED from :Common-2015.1.225-trial-release::11:5
+MERGED from :Data-2015.1.225-trial-release::11:5
+MERGED from :Feedback-2015.1.225-trial-release::11:5
+MERGED from :Input-2015.1.225-trial-release::11:5
+MERGED from :List-2015.1.225-trial-release::11:5
+MERGED from :Primitives-2015.1.225-trial-release::11:5
 	android:label
 		ADDED from AndroidManifest.xml:29:9
 	android:allowBackup
@@ -74,80 +92,124 @@ MERGED from com.android.support:support-v4:21.0.3:16:5
 	android:icon
 		ADDED from AndroidManifest.xml:28:9
 	android:theme
+		ADDED from :Chart-2015.1.225-trial-release::13:9
+	android:name
 		ADDED from AndroidManifest.xml:30:9
-	android:name
-		ADDED from AndroidManifest.xml:31:9
 activity#info.androidhive.slidingmenu.MainActivity
-ADDED from AndroidManifest.xml:34:9
+ADDED from AndroidManifest.xml:35:9
 	android:label
+		ADDED from AndroidManifest.xml:38:13
+	android:name
 		ADDED from AndroidManifest.xml:37:13
-	android:name
-		ADDED from AndroidManifest.xml:36:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:38:13
+ADDED from AndroidManifest.xml:39:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:39:17
+ADDED from AndroidManifest.xml:40:17
 	android:name
-		ADDED from AndroidManifest.xml:39:25
+		ADDED from AndroidManifest.xml:40:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:41:17
+ADDED from AndroidManifest.xml:42:17
 	android:name
-		ADDED from AndroidManifest.xml:41:27
+		ADDED from AndroidManifest.xml:42:27
+activity#info.androidhive.slidingmenu.event
+ADDED from AndroidManifest.xml:45:9
+	android:label
+		ADDED from AndroidManifest.xml:48:13
+	android:name
+		ADDED from AndroidManifest.xml:47:13
 service#com.parse.PushService
-ADDED from AndroidManifest.xml:46:9
-	android:name
-		ADDED from AndroidManifest.xml:46:18
-receiver#com.parse.ParseBroadcastReceiver
-ADDED from AndroidManifest.xml:47:9
-	android:name
-		ADDED from AndroidManifest.xml:47:19
-intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from AndroidManifest.xml:48:13
-action#android.intent.action.BOOT_COMPLETED
-ADDED from AndroidManifest.xml:49:17
-	android:name
-		ADDED from AndroidManifest.xml:49:25
-action#android.intent.action.USER_PRESENT
-ADDED from AndroidManifest.xml:50:17
-	android:name
-		ADDED from AndroidManifest.xml:50:25
-receiver#com.parse.ParsePushBroadcastReceiver
 ADDED from AndroidManifest.xml:53:9
-	android:exported
-		ADDED from AndroidManifest.xml:54:13
 	android:name
-		ADDED from AndroidManifest.xml:53:19
-intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+		ADDED from AndroidManifest.xml:53:18
+receiver#com.parse.ParseBroadcastReceiver
+ADDED from AndroidManifest.xml:54:9
+	android:name
+		ADDED from AndroidManifest.xml:54:19
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
 ADDED from AndroidManifest.xml:55:13
-action#com.parse.push.intent.RECEIVE
+action#android.intent.action.BOOT_COMPLETED
 ADDED from AndroidManifest.xml:56:17
 	android:name
 		ADDED from AndroidManifest.xml:56:25
-action#com.parse.push.intent.DELETE
+action#android.intent.action.USER_PRESENT
 ADDED from AndroidManifest.xml:57:17
 	android:name
 		ADDED from AndroidManifest.xml:57:25
-action#com.parse.push.intent.OPEN
-ADDED from AndroidManifest.xml:58:17
+receiver#com.parse.ParsePushBroadcastReceiver
+ADDED from AndroidManifest.xml:60:9
+	android:exported
+		ADDED from AndroidManifest.xml:61:13
 	android:name
-		ADDED from AndroidManifest.xml:58:25
-receiver#com.parse.GcmBroadcastReceiver
-ADDED from AndroidManifest.xml:61:9
-	android:permission
-		ADDED from AndroidManifest.xml:62:13
+		ADDED from AndroidManifest.xml:60:19
+intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from AndroidManifest.xml:62:13
+action#com.parse.push.intent.RECEIVE
+ADDED from AndroidManifest.xml:63:17
 	android:name
-		ADDED from AndroidManifest.xml:61:19
-intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+info.androidhive.slidingmenu
-ADDED from AndroidManifest.xml:63:13
-action#com.google.android.c2dm.intent.RECEIVE
+		ADDED from AndroidManifest.xml:63:25
+action#com.parse.push.intent.DELETE
 ADDED from AndroidManifest.xml:64:17
 	android:name
 		ADDED from AndroidManifest.xml:64:25
-action#com.google.android.c2dm.intent.REGISTRATION
+action#com.parse.push.intent.OPEN
 ADDED from AndroidManifest.xml:65:17
 	android:name
 		ADDED from AndroidManifest.xml:65:25
-category#info.androidhive.slidingmenu
-ADDED from AndroidManifest.xml:70:17
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from AndroidManifest.xml:68:9
+	android:permission
+		ADDED from AndroidManifest.xml:69:13
 	android:name
-		ADDED from AndroidManifest.xml:70:27
+		ADDED from AndroidManifest.xml:68:19
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+info.androidhive.slidingmenu
+ADDED from AndroidManifest.xml:70:13
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from AndroidManifest.xml:71:17
+	android:name
+		ADDED from AndroidManifest.xml:71:25
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from AndroidManifest.xml:72:17
+	android:name
+		ADDED from AndroidManifest.xml:72:25
+category#info.androidhive.slidingmenu
+ADDED from AndroidManifest.xml:77:17
+	android:name
+		ADDED from AndroidManifest.xml:77:27
+activity#android.support.v7.widget.TestActivity
+ADDED from com.android.support:recyclerview-v7:21.0.3:18:9
+	android:label
+		ADDED from com.android.support:recyclerview-v7:21.0.3:18:19
+	android:name
+		ADDED from com.android.support:recyclerview-v7:21.0.3:18:60
+activity#com.telerik.widget.feedback.SendFeedbackActivity
+ADDED from :Feedback-2015.1.225-trial-release::12:9
+	android:label
+		ADDED from :Feedback-2015.1.225-trial-release::14:13
+	android:theme
+		ADDED from :Feedback-2015.1.225-trial-release::15:13
+	android:name
+		ADDED from :Feedback-2015.1.225-trial-release::13:13
+activity#com.telerik.widget.feedback.ViewFeedbackActivity
+ADDED from :Feedback-2015.1.225-trial-release::17:9
+	android:label
+		ADDED from :Feedback-2015.1.225-trial-release::19:13
+	android:theme
+		ADDED from :Feedback-2015.1.225-trial-release::20:13
+	android:name
+		ADDED from :Feedback-2015.1.225-trial-release::18:13
+activity#com.telerik.widget.feedback.ViewFeedbackItemActivity
+ADDED from :Feedback-2015.1.225-trial-release::22:9
+	android:label
+		ADDED from :Feedback-2015.1.225-trial-release::24:13
+	android:theme
+		ADDED from :Feedback-2015.1.225-trial-release::25:13
+	android:name
+		ADDED from :Feedback-2015.1.225-trial-release::23:13
+activity#com.telerik.widget.feedback.EditDetailsActivity
+ADDED from :Feedback-2015.1.225-trial-release::27:9
+	android:label
+		ADDED from :Feedback-2015.1.225-trial-release::29:13
+	android:theme
+		ADDED from :Feedback-2015.1.225-trial-release::30:13
+	android:name
+		ADDED from :Feedback-2015.1.225-trial-release::28:13

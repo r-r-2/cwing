@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: sY6+RQ4DWdnxCfSpiwTT6GRIwA0=
+Created-By: 1.7.0_45 (Oracle Corporation)
+SHA1-Digest-Manifest: N98yXhIcNdTgwvq+mkksQqqutu4=
+
+Name: res/anim/drawer_slide_in_top.xml
+SHA1-Digest: ZVpeCRfE4niQNgWYYgv79UVLUTE=
+
+Name: res/values/values.xml
+SHA1-Digest: CK1hFhZ/inx5uoM1wOHALd2CMeE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ysthkFz++BeX0aWu7YFIIL7ZIT8=
+
+Name: classes.jar
+SHA1-Digest: 9zdbv7B1c7HaO0AeLlasyojioy8=
+
+Name: res/layout/default_tooltip_content.xml
+SHA1-Digest: fkfV+Ziol0+t86XsDqQZvUeSPrU=
+
+Name: R.txt
+SHA1-Digest: QXYuUCKjDFQfwb9NrhAHC8Dv7Rw=
+
+Name: res/anim/drawer_slide_out_top.xml
+SHA1-Digest: aC8LjBK3pr2hizP5P9OcgAocuZo=
+
+Name: res/layout/tooltip_container.xml
+SHA1-Digest: YaVpotUzPpy8/ht7mdzmHkhhFWU=
+

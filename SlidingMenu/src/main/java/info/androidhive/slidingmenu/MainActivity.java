@@ -186,22 +186,22 @@ public class MainActivity extends ActionBarActivity {
 		Fragment fragment = null;
 		switch (position) {
 		case 0:
-			fragment = new HomeFragment();
+			fragment = new Cal();
 			break;
 		case 1:
-			fragment = new FindPeopleFragment();
+			fragment = new CompanyProfile();
 			break;
 		case 2:
-			fragment = new PhotosFragment();
+			fragment = new Contact();
 			break;
 		case 3:
-			fragment = new CommunityFragment();
+			fragment = new Questions();
 			break;
 		case 4:
-			fragment = new PagesFragment();
+			fragment = new Admin();
 			break;
 		case 5:
-			fragment = new WhatsHotFragment();
+			fragment = new About();
 			break;
 
 		default:

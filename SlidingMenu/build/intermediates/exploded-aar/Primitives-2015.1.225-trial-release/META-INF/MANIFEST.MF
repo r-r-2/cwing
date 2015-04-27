@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_45 (Oracle Corporation)
+
+Name: res/anim/drawer_slide_in_top.xml
+SHA1-Digest: YPu+BfGUuonqqLryPlZiciZ5fkM=
+
+Name: res/values/values.xml
+SHA1-Digest: Kys3zOGiyxVopkwzMk7jtdMr7MQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: It/s+vGIRaH79L9TaZ1gPBtm0g8=
+
+Name: classes.jar
+SHA1-Digest: eo+tbpjyBGSkHBApZ9DNXWTS1zQ=
+
+Name: res/layout/default_tooltip_content.xml
+SHA1-Digest: TkgiQYIc+/ZMq6egzIkMq/GSOU0=
+
+Name: res/anim/drawer_slide_out_top.xml
+SHA1-Digest: GR+zcMUgnbienUEngqaPtPBHox0=
+
+Name: R.txt
+SHA1-Digest: T8+VOXcolwuYxywnAYVQu6eFRWQ=
+
+Name: res/layout/tooltip_container.xml
+SHA1-Digest: NK8GP4x5TmagodDLH5BZPanC6S0=
+
